@@ -1,7 +1,7 @@
 # win-pad-hotkeys
 [original sauce](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)
 
-Small tweaks to original - removed numpad bindings and increased the width on a few. Requires [AHK](http://ahkscript.org/).
+Two tweaks to original - removed numpad bindings and increased the width on a few. Requires [AHK](http://ahkscript.org/).
 
 ---
 
