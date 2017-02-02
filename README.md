@@ -2,6 +2,9 @@
 [original sauce](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)
 
 Just a few tweaks to original - removed numpad bindings and increased the width on a few. Requires [AHK](http://ahkscript.org/).
+
+---
+
 |  CAPS +   |      x      |     y    |width|height|
 |:---------:|:-----------:|:--------:|:---:|:----:|
 |z = WPM,   |-1,          |0,        |0.75,| 1.0  |
